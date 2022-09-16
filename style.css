@@ -199,7 +199,7 @@
 }
 
 body {
-  max-height: 100vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -207,7 +207,6 @@ body {
 }
 
 .box-cont {
-  translate: 0px 100%;
   perspective: 400px;
   perspective-origin: 20%;
   display: flex;
